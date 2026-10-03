@@ -1,0 +1,6 @@
+{
+  "name": "Megabyte AI",
+  "description": "Analyze. Optimize. Go Viral. AI-powered video analytics, viral title generation, thumbnail studio, and metadata optimizer backed by Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
